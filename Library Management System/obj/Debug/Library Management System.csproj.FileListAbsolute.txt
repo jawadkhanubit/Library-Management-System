@@ -1,0 +1,68 @@
+E:\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.main.resources
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.login.resources
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.booksrec.resources
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.members.resources
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.issuingbook.resources
+E:\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.exe.manifest
+E:\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.application
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.exe.manifest
+E:\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.application
+E:\win part\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\win part\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.exe.manifest
+E:\win part\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.application
+E:\win part\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\win part\Software development\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.main.resources
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.issuingbook.resources
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.login.resources
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.booksrec.resources
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.members.resources
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.exe.manifest
+E:\win part\Software development\Library Management System\Library Management System\obj\Debug\Library Management System.application
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\bin\Debug\Library Management System.exe.manifest
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\bin\Debug\Library Management System.application
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library_Management_System.main.resources
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library_Management_System.issuingbook.resources
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library_Management_System.login.resources
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library_Management_System.booksrec.resources
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library_Management_System.members.resources
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library Management System.exe.manifest
+E:\win part\Discrete Mathematics\Library Management System\Library Management System\obj\Debug\Library Management System.application
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\bin\Debug\Library Management System.exe.config
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library Management System.exe
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library Management System.pdb
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\bin\Debug\Library Management System.exe.manifest
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\bin\Debug\Library Management System.application
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\bin\Debug\Library Management System.exe
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\bin\Debug\Library Management System.pdb
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library Management System.csprojResolveAssemblyReference.cache
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library_Management_System.main.resources
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library_Management_System.issuingbook.resources
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library_Management_System.login.resources
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library_Management_System.booksrec.resources
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library_Management_System.members.resources
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library_Management_System.Properties.Resources.resources
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library Management System.csproj.GenerateResource.Cache
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library Management System.exe.manifest
+E:\win part\Discrete Mathematics\Project\Library Management System\Library Management System\obj\Debug\Library Management System.application
